@@ -1,0 +1,9 @@
+This is a test for the MACparser program.
+It is suppose to read out a line at a time.
+It is also suppose to give the line number. 00:0a:95:9d:68:16
+00:0a:95:9d:68:16
+haghdjkgasdg
+00:0a:95:9d:68:16
+00:0a:95:9d:68:16
+asdgdg
+gasdg
